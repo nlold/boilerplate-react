@@ -37,3 +37,5 @@
 6. `npm i -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react`
 
 Настраиваем ESLInt для React
+
+7. `npm i -D eslint-plugin-react-hooks`

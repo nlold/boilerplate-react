@@ -1,0 +1,33 @@
+{
+    "name": "boilerplate-react",
+    "version": "1.0.0",
+    "description": "Это быстрый шаблон для старта нового проекта на React с подключенными полезными инструментами.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/index.html",
+        "format": "prettier \"src/**/*.{js,html,css}\" --write",
+        "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nlold/boilerplate-react.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nlold/boilerplate-react/issues"
+    },
+    "homepage": "https://github.com/nlold/boilerplate-react#readme",
+    "devDependencies": {
+        "eslint": "^7.3.1",
+        "eslint-config-prettier": "^6.11.0",
+        "parcel-bundler": "^1.12.4",
+        "prettier": "^2.0.5"
+    },
+    "dependencies": {
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    }
+}

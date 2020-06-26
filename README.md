@@ -33,3 +33,7 @@
 5. `npm install react react-dom`
 
 Установка библиотек React и ReactDOM
+
+6. `npm i -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react`
+
+Настраиваем ESLInt для React
